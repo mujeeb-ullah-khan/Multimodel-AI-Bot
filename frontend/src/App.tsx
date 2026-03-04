@@ -355,7 +355,7 @@ function App() {
                   <Bot className="w-10 h-10 text-white" />
                 </div>
                 <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">
-                  Hello! I'm your Multimodal AI
+                  Hello! I'm your Multimodal AI (Note: Sometimes the first response is slow becuase of Hosting platform waking up)
                 </h2>
                 <p className="text-gray-600 dark:text-gray-400 max-w-md mb-6">
                   Ask me anything – I can also analyze images.
@@ -514,7 +514,7 @@ function App() {
           </form>
           
           <p className="text-xs text-gray-500 dark:text-gray-400 mt-2 text-center">
-            AI can make mistakes – double-check important info. Images up to 20MB.
+            AI can make mistakes – double-check important info. Images up to 20MB (Note: Sometimes the first response is slow becuase of Hosting platform waking up.)
           </p>
         </div>
       </div>
